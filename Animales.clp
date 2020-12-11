@@ -5,6 +5,14 @@
 (tiene-plumas)
 (tiene-escamas)
 (tiene-bigotes)
+(ladra)
+)
+
+(defrule perro
+(es-mamifero)
+(ladra)
+=>
+(assert (es-perro))
 )
 
 (defrule peces
