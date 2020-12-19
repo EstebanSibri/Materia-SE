@@ -1,0 +1,10 @@
+R1 Si la planta crece muy poco -> deficiencia de nitrogeno
+R2 Si la planta tiene color amarillo palido -> deficiencia de nitrogeno
+R3 Si las hojas tiene un color pardo rojizo -> deficiencia de nitrogeno
+R4 Si la raiz de la planta tiene poco crecimiento -> deficiencia de fosforo
+R5 Si la planta tiene un tallo fusiforme -> deficiencia de fosforo
+R6 Si la planta es de color purpura -> deficiencia de fosforo
+R7 Si la planta tiene un retrazo de madurez -> deficiencia de fosforo
+R8 Si los bordes de las hojas de la planta estan chamuscados -> deficiencia de potasio
+R9 Si la planta tiene tallos debilitados -> deficiencia de potasio
+R10 Si la planta tiene semillas o frutas marchitas -> deficiencia de potasio
